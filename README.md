@@ -1,5 +1,17 @@
-# 💫 About Me:
-i'm currently working on leveraging machine learning to predict the causes of surface roughness in 3d printed objects<br>i'm also working on reducing the chute time for the company of lifeflight of maine, to reduce the time consumed for the helicopter ambulance to reach the patients once they recieve the call from the dispatch centre, leveraging data analytics and machine learning<br>i'm currently focussed onto large language models and reinforcement learning and would be happy to collaborate in those projects adding value to them.<br>i'd be happy to chat upon Ai and it's applications in day to day life
+### About Me
+
+🔍 **Current Projects:**
+
+- **Surface Roughness Prediction in 3D Printing:** I'm engaged in an exciting project that leverages machine learning algorithms to predict the causes of surface roughness in 3D printed objects. By analyzing various printing parameters and environmental factors, we aim to enhance the quality and reliability of 3D printing technology.<br>
+- **Optimizing Emergency Response for LifeFlight of Maine:** In collaboration with LifeFlight of Maine, I'm working on a project aimed at reducing the "chute time" - the critical period from receiving an emergency call to the helicopter ambulance's departure. Utilizing data analytics and machine learning, our goal is to streamline operations and ensure rapid response to save lives.<br>
+
+📚 **Research Interests:**
+
+- I have a keen interest in **Large Language Models** and **Reinforcement Learning**. I'm always on the lookout for collaborative opportunities in these areas to contribute and add value to innovative projects.<br>
+
+📫 **Let's Connect:**
+
+- I'm passionate about the potential of AI and its applications in our daily lives. If you share similar interests or have an idea you'd like to discuss, I'd be more than happy to chat!<br>
 
 
 ## 🌐 Socials:
