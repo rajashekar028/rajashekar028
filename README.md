@@ -3,7 +3,7 @@
 🔍 **Current Projects:**
 
 - **Surface Roughness Prediction in 3D Printing:** I'm engaged in an exciting project that leverages machine learning algorithms to predict the causes of surface roughness in 3D printed objects. By analyzing various printing parameters and environmental factors, we aim to enhance the quality and reliability of 3D printing technology.<br>
-- **Optimizing Emergency Response for LifeFlight of Maine:** In collaboration with LifeFlight of Maine, I'm working on a project aimed at reducing the "chute time" - the critical period from receiving an emergency call to the helicopter ambulance's departure. Utilizing data analytics and machine learning, our goal is to streamline operations and ensure rapid response to save lives.<br>
+- **Summarizing Electronic Health Records:** I'm engaged in creating a question-answer model that can effectively provide an answer for prompts given by doctors regarding the patients, saving tonnes of time to doctors without the need of reviewing every individual's records.<br>
 
 📚 **Research Interests:**
 
