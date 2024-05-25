@@ -4,6 +4,7 @@
 
 - **Surface Roughness Prediction in 3D Printing:** I'm engaged in an exciting project that leverages machine learning algorithms to predict the causes of surface roughness in 3D printed objects. By analyzing various printing parameters and environmental factors, we aim to enhance the quality and reliability of 3D printing technology.<br>
 - **Summarizing Electronic Health Records:** I'm engaged in creating a question-answer model that can effectively provide an answer for prompts given by doctors regarding the patients, saving tonnes of time to doctors without the need of reviewing every individual's records.<br>
+- **Recommender systems for LL Bean:** Developed a recommender system to suggest similar products when items go out of stock by analyzing transactional and clickstream data and employing encoding techniques and distance calculations from product attributes.<br>
 
 📚 **Research Interests:**
 
