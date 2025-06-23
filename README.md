@@ -3,7 +3,9 @@
 🔍 **Current Projects:**
 
 - **Treatment recommendation in PAD patients:** I'm engaged in an exciting project that leverages large language models and agentic AI mechanism to be able to suggest treatments to the patients with peripheral artery disease, given their electronic health record data; this is a set of minor projects involving visualization of treatment pathways to understand the treatments leading to adverse events and those leading to normal events; understanding genetics that factor in, that lead to adverse events; involving timeseries data and genetics to make predictions for adverse event classification using language models; developing an agentic AI framework that can suggest treatments to patients on the basis of their past histories.<br>
+
 - **Summarizing Electronic Health Records:** I'm engaged in creating a question-answer model that can effectively provide an answer for prompts given by doctors regarding the patients, saving tonnes of time to doctors without the need of reviewing every individual's records.<br>
+
 - **Recommender systems for LL Bean:** Developed a recommender system to suggest similar products when items go out of stock by analyzing transactional and clickstream data and employing encoding techniques and distance calculations from product attributes.<br>
 
 📚 **Research Interests:**
